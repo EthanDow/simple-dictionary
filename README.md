@@ -1,7 +1,7 @@
 # simple-dictionary
 A simple dictionary application 
 
-![socket.io chat](https://github.com/EthanDow/socket-chat/blob/master/Capture.PNG)
+![a simpl dictionary](https://github.com/EthanDow/simple-dictionary/blob/master/Capture.PNG)
 
 
 ## Installing
